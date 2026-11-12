@@ -70,4 +70,4 @@ st.plotly_chart( grafik )
 
 st.write()
 
-https://share.streamlit.io/
+#https://share.streamlit.io/
